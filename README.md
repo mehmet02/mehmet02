@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Deponuzun İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet02&theme=blue-green)
-![Readme Card](https://github-readme-stats.vercel.app/api?username=mehmet02&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=mehmet02&show_icons=true&theme=radical)
