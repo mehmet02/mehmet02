@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Profil Görüntüleme Sayacı](https://komarev.com/ghpvc/?username=mehmet02)
 <!--
 **mehmet02/mehmet02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
+<a href="https://github.com/mehmet02" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=mehmet02" alt="Görüntüleme Sayacı" />
+  </a>
+  
   <a href="https://learn.microsoft.com/tr-tr/dotnet/core/whats-new/dotnet-10/overview" target="_blank">
     <img src="https://img.shields.io/badge/.NET-10.0-5C2D91?logo=.net&logoColor=white" alt=".NET 10.0" />
   </a>
