@@ -14,5 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Deponuzun İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet02&theme=blue-green)
-![Readme Card](https://github-readme-stats.vercel.app/api?username=mehmet02&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://learn.microsoft.com/tr-tr/dotnet/core/whats-new/dotnet-10/overview" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-10.0-5C2D91?logo=.net&logoColor=white" alt=".NET 10.0" />
+  </a>
+  <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank">
+    <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-blue" alt="Clean Architecture" />
+  </a>
+  <a href="https://feed.nuget.org/packages/Mecesoft.MediatR" target="_blank">
+    <img src="https://img.shields.io/badge/Pattern-CQRS%20%2B%20MediatR-orange" alt="CQRS + MediatR" />
+  </a>
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Auth-JWT%20Bearer-green" alt="JWT Auth" />
+  </a>
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Docs-Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger" />
+  </a>
+</p>
